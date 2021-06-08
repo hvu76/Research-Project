@@ -16,6 +16,7 @@
     margin-right: 20px;
 
 }
+
 body{
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
@@ -45,7 +46,6 @@ body{
     float: right;
     line-height: 100px;
     margin-right: 40px;
-    display: none;
 }
 
 #check{
@@ -90,4 +90,3 @@ body{
         left: 0;
     }
 }
-
