@@ -46,6 +46,7 @@ body{
     float: right;
     line-height: 100px;
     margin-right: 40px;
+    display: none;
 }
 
 #check{
